@@ -6,5 +6,4 @@ Criando uma Pokedex Simples com HTML, CSS e JavaScript. O projeto foi inspirado 
 3.JAVASCRIPT
 4. GERADOR DE FAVICONS
 5. API
-# Atualizando a Pokedex
-Uma segunda Pokedex foi criado utilizando o código aprendido na aula do Bootcamp Orange Tech +
+
